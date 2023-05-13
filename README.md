@@ -23,4 +23,4 @@
 - ⚡ Fun fact: 1 in every 3 developer wrote their first code even before they finish high school.
 <br>
 
-<img src="assets/code.gif" width="480" align="center" height="300" alt="Let's code">
+<img src="assets/code.gif" width="980" align="center" height="300" alt="Let's code">
