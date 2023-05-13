@@ -1,5 +1,9 @@
-### Hi there 👋
+# Aditya Kumar 
 
+
+# Visitor Count:  ![Visitor Count](https://profile-counter.glitch.me/{adityaxtalk}/count.svg)
+
+<p>
 <!--
 **adityaxtalk/adityaxtalk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
