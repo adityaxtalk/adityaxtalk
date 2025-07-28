@@ -1,7 +1,8 @@
 # Aditya Kumar 
 
 
-# Visitor Count:  ![Visitor Count](https://profile-counter.glitch.me/{adityaxtalk}/count.svg)
+# Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/adityaxtalk/count.svg)
+
 
 <img align="right" alt="BUG Fix" src="assets/bug.jpg" width="190" aria-label="No Worries! I will fix it"/>
 
